@@ -1,0 +1,7 @@
+[
+  { "platform": "Instagram", "metric": "Followers", "value": 1850 },
+  { "platform": "YouTube", "metric": "Subscribers", "value": 2300 },
+  { "platform": "Twitter", "metric": "Followers", "value": 1500 },
+  { "platform": "LinkedIn", "metric": "Connections", "value": 900 },
+  { "platform": "Facebook", "metric": "Page Likes", "value": 1100 }
+]
