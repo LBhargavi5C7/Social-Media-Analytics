@@ -28,6 +28,8 @@ An interactive and visually engaging data visualization tool to monitor real-tim
 ├── script.js
 └── data.json
 ```
+<img width="1876" height="894" alt="image" src="https://github.com/user-attachments/assets/28abda50-33fd-473e-b066-f0240798d10d" />
+
 ### 📈 Chart Example
 
 Bar chart displays metrics like followers, likes, subscribers from platforms like:
